@@ -1,8 +1,8 @@
-package edu.advanced.review;
+package edu.advanced.review.recursion;
 
 public class FirstIntegers {
 
-    public static int sumFirstIntegers(int n) {
+    private static int sumFirstIntegers(int n) {
         if (n == 1) {
             return 1;
         } else {

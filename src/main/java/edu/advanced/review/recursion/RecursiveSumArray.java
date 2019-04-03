@@ -1,4 +1,4 @@
-package edu.advanced.review;
+package edu.advanced.review.recursion;
 
 public class RecursiveSumArray {
 
